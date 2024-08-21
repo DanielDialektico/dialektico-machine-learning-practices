@@ -1,2 +1,2 @@
 # machine-learning-practices
-Prácticas de aprendiza de máquinas (machine learning) en Notebooks de Google Colab. 
+Prácticas de aprendizaje de máquinas (machine learning) en Notebooks de Google Colab. 
