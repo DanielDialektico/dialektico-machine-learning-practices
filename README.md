@@ -5,7 +5,7 @@ En este repositorio se encuentran todas las **prácticas de machine learning** e
 https://dialektico.com/cursoml/
 
 <p align="center">
-  <img src="files/classroom.jpg" alt="classroom.jpg" width="700px>
+  <img src="files/classroom.jpg" alt="classroom.jpg" width="700px">
 </p>
 
 <br><br/>
