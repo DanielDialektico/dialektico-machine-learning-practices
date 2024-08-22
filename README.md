@@ -15,6 +15,7 @@ Cada práctica está organizada en carpetas que indican el tema abordado, donde 
 <p align="center">
   <img src="files/colab.jpg" alt="colab.jpg">
 </p>
+
 <br><br/>
 
 También se puede acceder a las URLs directas para el uso de los notebooks en la siguiente página: https://dialektico.com/laboratorio/
